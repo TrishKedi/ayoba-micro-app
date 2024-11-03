@@ -62,10 +62,10 @@ The architecture of the MTN-Ayoba Micro-App focuses on modular design and effici
 ## 🏗️ Flow Diagrams
 
   1. **MADAPI**:
-    <img src="https://github.com/TrishKedi/professional-projects/main/assets/transaction-flow-diagrams/Ayoba%20MADAPI%20-%201.jpeg"/>
+    <img src="https://github.com/TrishKedi/professional-projects/blob/main/assets/transaction-flow-diagrams/Ayoba%20MADAPI%20-%201.jpeg"/>
   
   2. **VAS**:
-    <img src="https://github.com/TrishKedi/professional-projects/main/assets/transaction-flow-diagrams/Ayoba%20VasApps.jpeg"/>
+    <img src="https://github.com/TrishKedi/professional-projects/blob/main/assets/transaction-flow-diagrams/Ayoba%20VasApps.jpeg"/>
 
 ---
 
