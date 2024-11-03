@@ -55,21 +55,21 @@ The architecture of the MTN-Ayoba Micro-App focuses on modular design and effici
    - Ensures scalable compute and storage resources.
    - Supports containerized deployments using Docker and enables CI/CD with Jenkins for continuous integration.
 
-   <img src="https://github.com/TrishKedi/professional-projects/blob/main/Pulse%20APP%20Architecture.jpeg"/>
+   <img src="https://github.com/TrishKedi/professional-projects/blob/main/assets/architectural-diagrams/Pulse%20APP%20Architecture.jpeg"/>
 
 ---
 
 ## 🏗️ Flow Diagrams
 
   1. **MADAPI**:
-    <img src="https://github.com/TrishKedi/professional-projects/blob/main/Ayoba%20MADAPI%20-%201.jpeg"/>
+    <img src="https://github.com/TrishKedi/professional-projects/main/assets/transaction-flow-diagrams/Ayoba%20MADAPI%20-%201.jpeg"/>
   
   2. **VAS**:
-    <img src="https://github.com/TrishKedi/professional-projects/blob/main/Ayoba%20VasApps.jpeg"/>
+    <img src="https://github.com/TrishKedi/professional-projects/main/assets/transaction-flow-diagrams/Ayoba%20VasApps.jpeg"/>
 
 ---
 
-## 🌐 Live Demo
+<!-- ## 🌐 Live Demo
 
 Experience the MTN Pulse App live through one of the options below:
 
@@ -81,10 +81,12 @@ Experience the MTN Pulse App live through one of the options below:
 
 4. **[Mobile APK Download](https://your-firebase-link.com)** - Test the app directly on your Android device (Demo version with limited features).
 
----
+--- -->
 
 ## 🌐 Visit the Ayoba App
 
 Users can access the MTN-Ayoba Micro-App directly within the Ayoba messaging platform for convenient purchasing of data bundles.
+
+[Ayoba App](https://www.ayoba.me/web/home?lang=en)
 
 > **Note**: Ensure that you have the Ayoba app installed to access the MTN-Ayoba Micro-App.
